@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Pritha Saha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-- 💛 I love Web Development. **💛 I love Web Development.**
+- 💛 I love **Web Development.**
 
 - 🌱 I’m currently learning **Advance Programming In Web Technology, Machine Learning And Python**
 
