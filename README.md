@@ -1,16 +1,15 @@
-### Hi there 👋
+ Hello, I'm Pritha Saha 👋
 
-<!--
-**PrithaSaha48/PrithaSaha48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working as WEB DEVELOPER.
+- 🌱 I’m currently learning Advance Programming In Web Technology, Maching Learning And Python.
+-    Studying at American International University-Bangladeshy.
+- 👯 I’m looking to collaborate on  projects made with Python 🐍.
+- 🤔 I’m looking for help with Php,Html.
+- 💬 Ask me about Programming.
+- 📫 How to reach me:Twitter-  @sahapritha819 , Linkedin- prithasaha147, Email- sahapritha819@gmail.com 
+- 😄 Pronouns: Joke
+- ⚡ Fun fact: Coffe <3
 -->
