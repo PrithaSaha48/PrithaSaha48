@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working as WEB DEVELOPER.
+- 🔭 I’m currently working as Web Developer.
 - 🌱 I’m currently learning Advance Programming In Web Technology, Maching Learning And Python.
 -    Studying at American International University-Bangladeshy.
 - 👯 I’m looking to collaborate on  projects made with Python 🐍.
@@ -12,4 +12,4 @@
 - 📫 How to reach me:Twitter-  @sahapritha819 , Linkedin- prithasaha147, Email- sahapritha819@gmail.com 
 - 😄 Pronouns: Joke
 - ⚡ Fun fact: Coffe <3
--->
+
