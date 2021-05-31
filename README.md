@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Pritha Saha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 <hr>
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rajandasguptaml&show_icons=true&theme=algolia"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=PrithaSaha48&show_icons=true&theme=algolia"/>
 
 - 💛 I love **Web Development.**
 
