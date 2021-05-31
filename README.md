@@ -5,7 +5,7 @@
 
 - 💛 I love **Web Development.**
 
-- 🌱 I’m currently learning **Web Developing & Machine Learning **
+- 🌱 I’m currently learning **Web Developing & Machine Learning**
 
 - 👯 I’m looking to collaborate on **Projects made with Python 🐍.**
 
