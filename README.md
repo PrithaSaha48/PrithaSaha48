@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Pritha Saha</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate SQA Engineer from Bangladesh.</h3>
 <hr>
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=PrithaSaha48&show_icons=true&theme=algolia"/>
 
-- 💛 I love **Web Development.**
+- 💛 I love **Testing.**
 
-- 🌱 I’m currently learning **Web Developing & Machine Learning**
+- 🌱 I’m currently learning **Automation Testing**
 
 - 👯 I’m looking to collaborate on **Projects made with Python 🐍.**
 
